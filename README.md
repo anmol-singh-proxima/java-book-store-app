@@ -1,5 +1,5 @@
 # Online Book Store
-# This is a web application created in Java.
+## This is a web application created in Java.
 
 
 Technologies Used:
@@ -9,16 +9,16 @@ Technologies Used:
 4. Database - MySQL 8.0.12
 
 
-# This is a simple web application where I tried to implement my knowledge of J2EE concepts.
+* This is a simple web application where I tried to implement my knowledge of J2EE concepts.
 
-# In this application user can search the book by its name, author name and publisher house.
-# User can view the details of a particular book.
-# User can even purchase book.
-# All the purchases and the details of a user will reflect into his/her account.
-# A logged out user can search and view.
-# A logged in user can do purchase and see accounts alongside search and view.
+* In this application user can search the book by its name, author name and publisher house.
+* User can view the details of a particular book.
+* User can even purchase book.
+* All the purchases and the details of a user will reflect into his/her account.
+* A logged out user can search and view.
+* A logged in user can do purchase and see accounts alongside search and view.
 
-# User can register with some details and then log in with email and password.
+* User can register with some details and then log in with email and password.
 
 
 Java Technologies Used:

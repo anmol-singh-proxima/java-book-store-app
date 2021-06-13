@@ -10,14 +10,14 @@
 
 
 ### Introduction
-- This is a simple web application with the implementation of J2EE concepts.
-- In this application user can search the book by its name, author name and publisher house.
-- User can view the details of a particular book.
-- User can even purchase book.
-- All the purchases and the details of a user will reflect into his/her account.
-- A logged out user can search and view.
-- A logged in user can do purchase and see accounts alongside search and view.
-- User can register with some details and then log in with email and password.
+This is a simple web application with the implementation of J2EE concepts.
+The user can search the book by its name, author name, and publisher house in this application.
+Users can view the details of a particular book.
+Users can even purchase books.
+All the purchases and the details of a user will reflect in his/her account.
+A logged-out user can search and view.
+A logged-in user can do purchases and see accounts alongside search and view.
+Users can register with some details and then log in with email and password.
 
 
 ### Java Technologies Used:
